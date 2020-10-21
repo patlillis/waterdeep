@@ -15,7 +15,7 @@ module.exports = {
     /* ... */
   },
   devOptions: {
-    /* ... */
+    open: 'false',
   },
   buildOptions: {
     /* ... */
